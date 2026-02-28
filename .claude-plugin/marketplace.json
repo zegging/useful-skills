@@ -1,0 +1,29 @@
+{
+  "name": "langgraph-tools",
+  "owner": {
+    "name": "LangGraph Code Review Team",
+    "email": "langgraph-review@example.com"
+  },
+  "metadata": {
+    "description": "Production-grade LangGraph code review and best practices tools",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "langgraph-code-review-plugin",
+      "source": "./",
+      "description": "Production-grade LangGraph code review skill following enterprise best practices for agent architectures, state management, and reliability patterns",
+      "version": "1.0.0",
+      "author": {
+        "name": "huiti"
+      },
+      "keywords": [
+        "langgraph",
+        "code-review",
+        "agents",
+        "production",
+        "state-machine"
+      ]
+    }
+  ]
+}

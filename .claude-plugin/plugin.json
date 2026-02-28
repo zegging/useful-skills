@@ -1,0 +1,17 @@
+{
+  "name": "langgraph-code-review-plugin",
+  "description": "Production-grade LangGraph code review skill following enterprise best practices for agent architectures, state management, and reliability patterns",
+  "version": "1.0.0",
+  "author": {
+    "name": "LangGraph Code Review Team"
+  },
+  "license": "MIT",
+  "keywords": [
+    "langgraph",
+    "code-review",
+    "agents",
+    "production",
+    "state-machine"
+  ],
+  "repository": "https://github.com/anthropics/langgraph-code-review-plugin"
+}
